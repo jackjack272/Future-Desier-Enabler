@@ -15,10 +15,6 @@ On your desktop make a new folder, name it "whatever", put in your csv- id renam
 open comand prompt and navigate to desktop using "cd x" x being the next file you'll navigate to on your way to the desktop. Once in the file named "whatever", type:
 python final.py 1.csv month, month being a number, if the transaction are for april you'd type 4.
 
-Licencing:
-Feel free to use/modify how ever you feel appropriate, but give credit(non commercial use).Comercial use: pass $1 USD 2021 value / use.
-Other wise i genuinty hope that this bring value.
-
 Dream:
 I want to build an all emcompassing application that given your month's visa transactions it'll be able to generate a budget
 that allows you to maintain your lifestyle*, helps you pay off your debits, and helps you invest. My dream is to make an app
@@ -54,5 +50,8 @@ Be mindful of the gap between where you are and where youre spending at. Spend b
 Including compounding and a bullish market youre practically midus turning $1 to $1.10 by sleeping and eating.
 DONT SHORT CHANGE YOUR SELF OUT OF YOUR DREAM LIFE OVER A COFFEE A DAY!
 
+Licencing:
+Feel free to use/modify how ever you feel appropriate, but give credit(non commercial use).Comercial use: pass $1 USD 2021 value / use.
+Other wise i genuinty hope that this bring value.
 
 give it your friends and family if it can help i want it to help. i dont want people loosing sleep over money when money can can be so easily managed and enslaved!
